@@ -1,4 +1,6 @@
 Algoritmo "programa de calculos"
+//  
+//  
 
 //Programa desenvolvido para facilitar alguns clculos
 
